@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "commander": "^5.1.0",
+    "free-tex-packer-core": "^0.3.1",
+    "glob": "^7.1.6"
+  },
+  "bin": {
+    "spr": "./bin/index.js"
+  },
+  "name": "spr"
+}
